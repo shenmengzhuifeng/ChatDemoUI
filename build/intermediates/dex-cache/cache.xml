@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\ChatDemoUI\app\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-b9ad8bd535e0f5360f87525a9581dad61a4ec23a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\ChatDemoUI\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-f3e123de0fb8bf6be8581d052f522e9af7384c74.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\ChatDemoUI\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4-1efe499713fcdb2c82f0d001f8437065adda3b1f.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-0cf3d10c35e3a85c12847a4ae04cc53252341eed.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-766283d5cfd11ce41088bb14670e88139269e1be.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\ChatDemoUI\app\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\pre-dexed\debug\locSDK_3.3-c381a13be949c35854d78d9012225a9b0331ef16.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\pre-dexed\debug\classes-a72c87d53a6cb3b603d7fe3f5e2a8c15fb41c14f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\ChatDemoUI\app\libs\easemobchat_2.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e314f6cc3ec960c883a1ff797b422c3e185020a9">
+        <dex dex="D:\AndroidStudioProjects\ChatDemoUI\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.1-d6adca95eacf1bf9774fac42ed338600430de6cb.jar" />
+    </item>
+
+</items>
